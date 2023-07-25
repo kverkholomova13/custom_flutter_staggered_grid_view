@@ -142,7 +142,7 @@ class _SliverQuiltedGridLayout extends SliverGridLayout {
   })  : assert(cellExtent > 0),
         assert(mainAxisSpacing >= 0),
         assert(crossAxisSpacing >= 0),
-        mainAxisStride = cellExtent + mainAxisSpacing,
+        mainAxisStride = cellExtent + 110 + mainAxisSpacing,
         crossAxisStride = cellExtent + crossAxisSpacing;
 
   final double crossAxisExtent;
