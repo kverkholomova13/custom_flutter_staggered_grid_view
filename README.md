@@ -17,7 +17,7 @@ dependencies:
 In your library add the following import:
 
 ```dart
-import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
+import 'package:flutter_staggered_grid_view/my_custom_staggered_grid_view.dart';
 ```
 
 For help getting started with Flutter, view the online [documentation][flutter_documentation].

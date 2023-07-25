@@ -138,3 +138,10 @@ It comes now with 5 differents grid layouts (Staggered, Masonry, Quilted, Woven,
 
 ## 0.1.0
 * Initial Open Source release
+
+## 1.0.0
+### Changed
+* Items of GridView.custom can be shaped as rectangles not squares
+
+## 1.0.0+1
+* Height of images changed
