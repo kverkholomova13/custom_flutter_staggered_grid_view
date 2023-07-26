@@ -1,6 +1,6 @@
 name: my_custom_staggered_grid_view
 description: Provides a collection of Flutter grids layouts (staggered, masonry, quilted, woven, etc.).
-version: 1.0.0+1
+version: 1.0.0+2
 homepage: https://github.com/kverkholomova13/custom_flutter_staggered_grid_view.git
 
 environment:

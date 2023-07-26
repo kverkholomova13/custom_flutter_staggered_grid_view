@@ -145,3 +145,6 @@ It comes now with 5 differents grid layouts (Staggered, Masonry, Quilted, Woven,
 
 ## 1.0.0+1
 * Height of images changed
+
+## 1.0.0+2
+* Representation of height of images changed
